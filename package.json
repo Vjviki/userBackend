@@ -1,4 +1,10 @@
 {
+  "name": "sqlite-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "date-fns": "^4.1.0",
     "express": "^4.21.2",
